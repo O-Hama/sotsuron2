@@ -159,7 +159,7 @@ const calObjectDirection = (handPoint) =>{
     
 
     ObjectDirection[0] = rotationX;
-    ObjectDirection[1] = rotationY + 180;
+    ObjectDirection[1] = rotationY;
 
     return ObjectDirection;
 };
